@@ -120,6 +120,9 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    private void test(){
+        System.out.println("Hello world");
+    }
 
     /**
      * Starting location updates
